@@ -39,6 +39,6 @@ El sistema ofrece un menú interactivo con las siguientes opciones:
 python main.py
 ```
 
-## 📌 Autor
+## 👤 Autor.
 
 **Nicolás García**
