@@ -23,7 +23,7 @@ El sistema ofrece un menú interactivo con las siguientes opciones:
 
 ## 📸 Captura del proyecto
 
-![Menú principal](screenshot.png)
+![Menú principal](public/screenshots/screenshot.png)
 
 ## 🛠️ Tecnologías utilizadas
 
